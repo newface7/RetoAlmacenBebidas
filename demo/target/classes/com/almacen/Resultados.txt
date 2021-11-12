@@ -1,0 +1,26 @@
+Bebida agregada
+Bebida agregada
+Bebida agregada
+Bebida agregada
+Bebida agregada
+Bebida agregada
+Bebida agregada
+Bebida agregada
+Bebida agregada
+Bebida agregada
+Bebida eliminada
+Fila: 0, Columna: 0 Bebida: Bebida [id=1, cantidad=1.5, marca=Postobon, precio=5.0]AguaMineral [manantial=Brisa1]
+Fila: 0, Columna: 1 Bebida: Bebida [id=2, cantidad=1.5, marca=Coca-Cola, precio=10.0]BebidaAzucarada 
+[oferta=true, propAzucar=0.2]
+Fila: 0, Columna: 2 Bebida: Bebida [id=3, cantidad=1.5, marca=Postobon, precio=5.0]AguaMineral [manantial=Brisa1]
+Fila: 0, Columna: 4 Bebida: Bebida [id=5, cantidad=1.5, marca=Postobon, precio=5.0]AguaMineral [manantial=Brisa1]
+Fila: 1, Columna: 0 Bebida: Bebida [id=6, cantidad=1.5, marca=Coca-Cola, precio=10.0]BebidaAzucarada 
+[oferta=true, propAzucar=0.2]
+Fila: 1, Columna: 1 Bebida: Bebida [id=7, cantidad=1.5, marca=Postobon, precio=5.0]AguaMineral [manantial=Brisa1]
+Fila: 1, Columna: 2 Bebida: Bebida [id=8, cantidad=1.5, marca=Coca-Cola, precio=10.0]BebidaAzucarada 
+[oferta=true, propAzucar=0.2]
+Fila: 1, Columna: 3 Bebida: Bebida [id=9, cantidad=1.5, marca=Postobon, precio=5.0]AguaMineral [manantial=Brisa1]
+Fila: 1, Columna: 4 Bebida: Bebida [id=10, cantidad=1.5, marca=Coca-Cola, precio=10.0]BebidaAzucarada [oferta=true, propAzucar=0.2]
+9.0
+9.0
+9.0
